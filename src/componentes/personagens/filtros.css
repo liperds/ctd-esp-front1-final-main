@@ -1,6 +1,5 @@
 .filtros {
   display: flex;
-  margin: 20px auto;
   align-items: center;
   gap: 1rem;
   width: calc(100% - 90px);
