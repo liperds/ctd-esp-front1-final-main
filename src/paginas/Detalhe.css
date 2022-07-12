@@ -1,6 +1,7 @@
 .detalhe {
   display: flex;
   flex-direction: column;
+  
 }
 
 .detalhe-header {
@@ -8,12 +9,15 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: space-between;
+  margin-bottom: 20px;
+  
 }
 
 .detalhe-header-texto {
   margin-left: 30px;
   font-size: 26px;
   font-weight: 500;
+  
 }
 
 .detalhe-header-texto p {
