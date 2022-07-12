@@ -25,7 +25,6 @@
 .card-personagem button.botao-favorito {
   position: absolute;
   top: .5rem;
-  right: .5rem;
 }
 
 .card-personagem > div.card-personagem-body {

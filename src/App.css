@@ -16,7 +16,7 @@
 
 button.primary {
     cursor: pointer;
-    padding: 10px 20px;
+    padding: 7px 15px;
     font-size: 16px;
     font-weight: 500;
     border: 0;
@@ -32,7 +32,7 @@ button.primary[disabled], button.danger[disabled] {
 
 button.danger {
     cursor: pointer;
-    padding: 10px 20px;
+    padding: 7px 15px;
     font-size: 16px;
     font-weight: 500;
     border: 0;

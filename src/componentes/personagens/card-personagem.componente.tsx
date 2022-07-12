@@ -39,7 +39,7 @@ const CardPersonagem = ({ personagem }: Props) => {
       />
       <div className="card-personagem-body">
         <span>{personagem.name}</span>
-        <button className="primary" onClick={detalheHandler}>Info</button>
+        <button className="primary" onClick={detalheHandler}>Detalhes</button>
         <BotaoFavorito isFavorito={personagem.favorito} favoritoHandler={favoritoHandler}/>
       </div>
     </div>
