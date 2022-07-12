@@ -1,0 +1,42 @@
+.card-personagem {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  transition: all .4s ease-in;
+  
+}
+
+.card-personagem:hover {
+  transform: scale(1.32);
+}
+
+
+
+
+.card-personagem > img {
+  width: 300px;
+  height: 300px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border: 1px solid #d0d0d0;
+  border-radius: 12px;
+}
+
+.card-personagem button.botao-favorito {
+  position: absolute;
+  top: .5rem;
+  right: .5rem;
+}
+
+.card-personagem > div.card-personagem-body {
+  padding: 10px;
+  border: 1px solid #d0d0d0;
+  border-top: 0;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  font-size: 16px;
+  font-weight: 500;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
