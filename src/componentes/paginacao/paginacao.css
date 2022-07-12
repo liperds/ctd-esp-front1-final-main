@@ -3,4 +3,5 @@
   flex-direction: row;
   justify-content: space-between;
   margin: 10px 0;
+  width: calc(100% - 60px);
 }
