@@ -2,7 +2,7 @@
 
 Exame Final de Frontend IV
 
-## Indic
+## Indice
 
 - [Requisitos](#requisitos)
   - [Condições mínimas de aprovação](#condições-mínimas-de-aprovação)
